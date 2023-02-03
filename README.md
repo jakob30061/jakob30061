@@ -17,7 +17,7 @@
 <h2 align="center"> Statistics </h2>
 <a href="https://github.com/jakob30061?tab=repositories">
   <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakob30061&count_private=true&langs_count=7&theme=material-palenight"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakob30061&hide=css,html&layout=compact&langs_count=7&theme=material-palenight"/>
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jakob30061&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight"/>
   </p>
 </a>
