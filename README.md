@@ -4,12 +4,10 @@
 <p align="center"><b> Languages and Tools:</b></p>
 <div id="badges">
     <img src="./assets/badges/TypeScript.svg"/>
-    <img src="./assets/badges/JavaScript.svg"/>
     <img src="./assets/badges/Vue.svg"/>
     <img src="./assets/badges/Rust.svg"/>
     <img src="./assets/badges/NodeJs.svg"/>
     <img src="./assets/badges/TailwindCss.svg"/>
-    <img src="./assets/badges/Windows.svg"/>
     <img src="./assets/badges/VS Code.svg"/>
     <img src="./assets/badges/GitHub.svg"/>
 <div>
