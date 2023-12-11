@@ -12,6 +12,13 @@
     <img src="./assets/badges/GitHub.svg"/>
 <div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jakob30061/jakob30061/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jakob30061/jakob30061/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jakob30061/jakob30061/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <h2 align="center"> Statistics </h2>
 <a href="https://github.com/jakob30061?tab=repositories">
   <p align="center">
